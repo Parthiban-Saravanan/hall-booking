@@ -1,0 +1,14 @@
+{
+  "name": "hall-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Parthiban",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
